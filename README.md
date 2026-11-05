@@ -174,8 +174,4 @@ World or Microsoft. Torchlight and its content belong to their owners.
 This folder contains no game files, art, music or sound. You need your own
 legally obtained copy of the Xbox 360 version of Torchlight.
 
-The AI upscaling uses Real-ESRGAN (realesrgan-ncnn-vulkan and the
-realesrgan-x4plus-anime model, BSD 3-Clause licence, by Xintao Wang et al.),
-carried inside TorchlightRecomp.exe and run once on the first start.
-
 XBOX 360 Recomp by r/evillurkz

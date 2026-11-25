@@ -127,6 +127,9 @@ To give the folder to someone else later, open Settings.exe and press
 
 Controls are the original Xbox 360 controls. The button pictures follow your
 controller: Xbox buttons on an Xbox pad, PlayStation buttons on any other.
+To choose them yourself (for example on an 8BitDo or other Xbox-style pad):
+PC Settings (Options, or the PS / Guide button) -> Button Icons ->
+Auto / PlayStation / Xbox. Settings.exe has the same option.
 The game is controller only: the mouse and keyboard are not used in game.
 
 Settings
@@ -173,5 +176,9 @@ World or Microsoft. Torchlight and its content belong to their owners.
 
 This folder contains no game files, art, music or sound. You need your own
 legally obtained copy of the Xbox 360 version of Torchlight.
+
+The AI upscaling uses Real-ESRGAN (realesrgan-ncnn-vulkan and the
+realesrgan-x4plus-anime model, BSD 3-Clause licence, by Xintao Wang et al.),
+carried inside TorchlightRecomp.exe and run once on the first start.
 
 XBOX 360 Recomp by r/evillurkz
